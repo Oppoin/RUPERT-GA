@@ -1,0 +1,6 @@
+{
+  "require": {
+    "google/apiclient": "1.0.4-beta",
+    "phpunit/phpunit": "3.7.*"
+  }
+}
